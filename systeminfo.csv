@@ -1,0 +1,57 @@
+ALLURE_HOME:    C:\Users\uziel.buendia\scoop\apps\allure\current
+ALLUSERSPROFILE:    C:\ProgramData
+APPDATA:    C:\Users\uziel.buendia\AppData\Roaming
+CHROME_CRASHPAD_PIPE_NAME:    \\.\pipe\crashpad_10988_MSBHGDDJCUGMJLAW
+COMMONPROGRAMFILES:    C:\Program Files\Common Files
+COMMONPROGRAMFILES(X86):    C:\Program Files (x86)\Common Files
+COMMONPROGRAMW6432:    C:\Program Files\Common Files
+COMPUTERNAME:    MEXL006000
+COMSPEC:    C:\Windows\system32\cmd.exe
+DRIVERDATA:    C:\Windows\System32\Drivers\DriverData
+FPS_BROWSER_APP_PROFILE_STRING:    Internet Explorer
+FPS_BROWSER_USER_PROFILE_STRING:    Default
+HOMEDRIVE:    C:
+HOMEPATH:    \Users\uziel.buendia
+LOCALAPPDATA:    C:\Users\uziel.buendia\AppData\Local
+LOGONSERVER:    \\ATDCDC00
+NUMBER_OF_PROCESSORS:    8
+ONEDRIVE:    C:\Users\uziel.buendia\OneDrive
+ORIGINAL_XDG_CURRENT_DESKTOP:    undefined
+OS:    Windows_NT
+PATH:    C:\Program Files\Microsoft SDKs\Azure\CLI2\wbin;C:\Program Files\Microsoft\jdk-11.0.16.101-hotspot\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Git\cmd;C:\Program Files\dotnet\;C:\Users\uziel.buendia\scoop\shims;C:\Users\uziel.buendia\AppData\Local\Microsoft\WindowsApps;C:\Program Files (x86)\BrowserStackLocal\;C:\Users\uziel.buendia\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\uziel.buendia\.dotnet\tools
+PATHEXT:    .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.CPL
+PROCESSOR_ARCHITECTURE:    AMD64
+PROCESSOR_IDENTIFIER:    Intel64 Family 6 Model 142 Stepping 10, GenuineIntel
+PROCESSOR_LEVEL:    6
+PROCESSOR_REVISION:    8e0a
+PROGRAMDATA:    C:\ProgramData
+PROGRAMFILES:    C:\Program Files
+PROGRAMFILES(X86):    C:\Program Files (x86)
+PROGRAMW6432:    C:\Program Files
+PSMODULEPATH:    C:\Users\uziel.buendia\OneDrive - AgileThought\Documents\WindowsPowerShell\Modules;C:\Program Files (x86)\WindowsPowerShell\Modules;C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules;C:\Program Files (x86)\AutoIt3\AutoItX
+PUBLIC:    C:\Users\Public
+SCITE_USERHOME:    C:\Users\uziel.buendia\AppData\Local\AutoIt v3\SciTE
+SESSIONNAME:    Console
+SYSTEMDRIVE:    C:
+SYSTEMROOT:    C:\Windows
+TEMP:    C:\Users\UZIEL~1.BUE\AppData\Local\Temp
+TMP:    C:\Users\UZIEL~1.BUE\AppData\Local\Temp
+USERDNSDOMAIN:    AT.LOCAL
+USERDOMAIN:    AT
+USERDOMAIN_ROAMINGPROFILE:    AT
+USERNAME:    uziel.buendia
+USERPROFILE:    C:\Users\uziel.buendia
+WINDIR:    C:\Windows
+ZES_ENABLE_SYSMAN:    1
+PYTHONSTARTUP:    c:\Users\uziel.buendia\.vscode\extensions\ms-python.python-2024.6.0\python_files\pythonrc.py
+TERM_PROGRAM:    vscode
+TERM_PROGRAM_VERSION:    1.89.1
+LANG:    en_US.UTF-8
+COLORTERM:    truecolor
+GIT_ASKPASS:    c:\Users\uziel.buendia\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\git\dist\askpass.sh
+VSCODE_GIT_ASKPASS_NODE:    C:\Users\uziel.buendia\AppData\Local\Programs\Microsoft VS Code\Code.exe
+VSCODE_GIT_ASKPASS_EXTRA_ARGS:    
+VSCODE_GIT_ASKPASS_MAIN:    c:\Users\uziel.buendia\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\git\dist\askpass-main.js
+VSCODE_GIT_IPC_HANDLE:    \\.\pipe\vscode-git-5a5ea72665-sock
+VSCODE_INJECTION:    1
+PYTHONUSERBASE:    C:\Users\uziel.buendia\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages
