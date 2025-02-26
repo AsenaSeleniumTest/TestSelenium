@@ -113,6 +113,7 @@ class Knight(Player):
     def level_up_aura(self,level):
         """ _summary_ Level up the aura of the Knight"""
         self.__aura+=level
+        self.__aura+=level
     
         
     ## Method that shows the details of the Knight  
