@@ -22,7 +22,7 @@ jobs:
         with:
           python-version: '3.13'
       - name: Run Script
-        run: python ./Python/SeleniumTest/Tests/test_Base_Page.py   
+        run: python ./SeleniumTest/Tests/test_Base_Page.py   
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
