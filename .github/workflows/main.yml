@@ -2,7 +2,7 @@ name: Login
 
 on: 
   push:
-    branches: [TestSelenium]
+    branches: [main]
 
 jobs:
   build: 
