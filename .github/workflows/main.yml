@@ -9,9 +9,14 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+      
     steps:
       - name: checkout 
         uses: actions/checkout@v4
+        with:
+            sparse-checkout: |
+              .github
+              src
       - name : setup python 
         uses: action/setup-python@v5
         with:
