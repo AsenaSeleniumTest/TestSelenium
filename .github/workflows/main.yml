@@ -2,7 +2,7 @@ name: Login
 
 on: 
   push:
-    branches: [pythontest01]
+    branches: [master]
 
 jobs:
   build: 
@@ -15,7 +15,7 @@ jobs:
       - name : setup python 
         uses: action/setup-python@v5
         with:
-          python-version: '3.13'
+          python-version: '3.x'
       - name: Run Script
         run: python ./Python/SeleniumTest/Tests/test_Base_Page.py   
       - name: commit and push changes
