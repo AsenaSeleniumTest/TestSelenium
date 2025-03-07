@@ -2,7 +2,7 @@ name: Login
 
 on: 
   push:
-    branches: [main]
+    branches: [master]
 
 jobs:
   build: 
