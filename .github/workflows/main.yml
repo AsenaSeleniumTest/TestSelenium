@@ -1,0 +1,30 @@
+name: Login
+
+on: 
+  push:
+    branches: [TestSelenium]
+
+jobs:
+  build: 
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: checkout 
+        uses: actions/checkout@v4
+      - name : setup python 
+        uses: action/setup-python@v5
+        with:
+          python-version: '3.13'
+      - name: Run Script
+        run: python ./Python/SeleniumTest/Tests/test_Base_Page.py   
+      - name: commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v5.1.0
+        with:
+          commit_message: automated push
+          commit_user_name: USBQ [git Actions]
+          commit_user_email: buendiau@gmail.com
+          commit_author: USBQ
+        
+  
+    
