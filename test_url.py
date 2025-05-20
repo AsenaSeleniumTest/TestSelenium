@@ -17,5 +17,6 @@ def test_driver_test():
     driver.find_element(By.XPATH,"//input[@name='q']").send_keys("The dev-friendly football API")
     driver.find_element(By.XPATH,"//button[@type='submit']").click()
     driver.find_element(By.XPATH,"//span[text()='The dev-friendly football API']").click()
-    url = driver.current_url()
+    url = driver.current_url
     assert url == "https://www.football-data.org/"
+    driver.close()
